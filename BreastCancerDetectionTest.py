@@ -208,10 +208,11 @@ def getInput():
     list1 = []
     list1.append(list)
     
-    # print(list1)
+    print(list1)
     
     model = load_model('my_model.h5')
     cancer = datasets.load_breast_cancer()
+    # cancer.to_csv('abc.csv')
     X = pd.DataFrame(data = cancer.data, columns=cancer.feature_names)
     y = cancer.target
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0, stratify = y)
@@ -242,7 +243,7 @@ def getInput():
             answer = "Cancer is not detected"
     
     textArea = tk.Text(master=window,height=5,width=25)
-    textArea.grid(column=1,row=40)
+    textArea.grid(column=1,row=30)
     # answer = " Heyy {monkey}!!!. You are {age} years old!!! ".format(monkey=name, age=monkey.age())
     textArea.insert(tk.END,answer)
     

@@ -1,0 +1,33 @@
+BANGTAN COLLEGE OF MEDICAL SCIENCE
+
+ 
+
+Mammogram and Ultrasound Breasts Report
+
+ 
+
+‘Mean radius: 7.729 ‘Compactness error: 0.009692
+‘Mean texture: 25.49, Concavity error: 0 
+
+‘Mean perimeter: 47.98 Concave points error: 0
+
+‘Mean area: 178.8 ‘Symmetry errr: 0.02882
+
+‘Mean smoothness: 0.08098 Fractal dimension eror 0.006872
+‘Mean compactnes: 0.04878 Worst radius: 9.077
+
+‘Mean concavity: 0 Worst texture: 30.92
+
+‘Mean concave points: 0 Worst perimeter: 57.17
+
+‘Mean symmetry: 0.187 Worst area: 248
+
+‘Mean fractal dimension: 0.07285 Worst smoothness: 0.1256
+Radius ero: 0.3777 Worst compactness: 0.0834
+“Texture error: 1.462 Worst concavity: 0
+
+Perimeter err: 2.492 Worst concave points: 0
+
+‘Area enor: 19.14 Worst symmetry: 0.3058
+
+‘Smoothness error: 0.01266 ‘Worst fractal dimension: 0.09938
